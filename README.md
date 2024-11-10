@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/11db800c-6178-460a-8b7c-c1ec9ec0ee6d)# AI_Chat_App
+# AI_Chat_App
  Gemini Clone app using Reactjs
 
 Step 1: Install npm
